@@ -5,11 +5,12 @@ Problem statements and solutions(in JAVA) of 31 days May Coding challenge by Lee
 ## Submissions
 + Week 1
     
-    + Day #1 - Weekday 5 - 1st May 2020 - [First Bad Version](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/) - [My Submission](https://github.com/iamkishlayverma/leetcode-may-coding-challenge/blob/master/1st-May/solution.java)
-    + Day #2 - Weekday 6 - 2nd May 2020 - [Jewels and Stones](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3317/) - [My Submission](https://github.com/iamkishlayverma/leetcode-may-coding-challenge/blob/master/2nd-May/solution.java)
-    + Day #3 - Weekday 7 - 3rd May 2020 - [Ransom Note](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3318/) - [My Submission](https://github.com/iamkishlayverma/leetcode-may-coding-challenge/blob/master/3rd-May/solution.java)
-    + Day #4 - Weekday 1 - 4th May 2020 - [Number Complement](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3319/) - [My Submission](https://github.com/iamkishlayverma/leetcode-may-coding-challenge/blob/master/4th-May/solution.java)
-    + Day #5 - Weekday 2 - 5th May 2020 - [First Unique Character in a String](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/) - [My Submission](https://github.com/iamkishlayverma/leetcode-may-coding-challenge/blob/master/5th-May/solution.java)
+    + Day #1 - 1st May 2020 - [First Bad Version](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/) - [My Submission](https://github.com/iamkishlayverma/leetcode-may-coding-challenge/blob/master/1st-May/solution.java)
+    + Day #2 - 2nd May 2020 - [Jewels and Stones](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3317/) - [My Submission](https://github.com/iamkishlayverma/leetcode-may-coding-challenge/blob/master/2nd-May/solution.java)
+    + Day #3 - 3rd May 2020 - [Ransom Note](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3318/) - [My Submission](https://github.com/iamkishlayverma/leetcode-may-coding-challenge/blob/master/3rd-May/solution.java)
+    + Day #4 - 4th May 2020 - [Number Complement](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3319/) - [My Submission](https://github.com/iamkishlayverma/leetcode-may-coding-challenge/blob/master/4th-May/solution.java)
+    + Day #5 - 5th May 2020 - [First Unique Character in a String](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/) - [My Submission](https://github.com/iamkishlayverma/leetcode-may-coding-challenge/blob/master/5th-May/solution.java)
+    + Day #6 - 6th May 2020 - [Majority Element](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3321/) - [My Submission](https://github.com/iamkishlayverma/leetcode-may-coding-challenge/blob/master/6th-May/solution.java)
 
 ## Summary
 
@@ -20,3 +21,4 @@ Problem statements and solutions(in JAVA) of 31 days May Coding challenge by Lee
 | 3 | [Ransom Note](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3318/) - [Code](https://github.com/iamkishlayverma/leetcode-may-coding-challenge/blob/master/3rd-May/solution.java) | Frequency Array | Array | O(n) | O(1) |
 | 4 | [Number Complement](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3319/) - [Code](https://github.com/iamkishlayverma/leetcode-may-coding-challenge/blob/master/4th-May/solution.java) | Java Decimal-to-Binary | Array | O(logn) | O(1) |
 | 5 | [First Unique Character in a String](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/) - [Code](https://github.com/iamkishlayverma/leetcode-may-coding-challenge/blob/master/5th-May/solution.java) | Frequency Array | Array | O(n) | O(1) |
+| 6 | [Majority Element](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3321/) - [Code](https://github.com/iamkishlayverma/leetcode-may-coding-challenge/blob/master/6th-May/solution.java) | Moore's Voting Algorithm | Array | O(n) | O(1) |
