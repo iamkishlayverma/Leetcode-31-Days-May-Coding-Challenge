@@ -12,7 +12,8 @@ Problem statements and solutions(in JAVA) of 31 days May Coding challenge by Lee
     + Day #5 - 5th May 2020 - [First Unique Character in a String](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/) - [My Submission](https://github.com/iamkishlayverma/leetcode-may-coding-challenge/blob/master/5th-May/solution.java)
     + Day #6 - 6th May 2020 - [Majority Element](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3321/) - [My Submission](https://github.com/iamkishlayverma/leetcode-may-coding-challenge/blob/master/6th-May/solution.java)
     + Day #7 - 7th May 2020 - [Cousins in Binary Tree](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3322/) - [My Submission](https://github.com/iamkishlayverma/leetcode-may-coding-challenge/blob/master/7th-May/solution.java)
-    + Day #8 - 8th May 2020 - [Check If It Is a Straight Line](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/) - [My Submission](https://github.com/iamkishlayverma/leetcode-may-coding-challenge/blob/master/8th-May/solution.java)
+    + Day #8 - 8th May 2020 - [Check If It Is a Straight Line](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/) - [My Submission](https://github.com/iamkishlayverma/leetcode-may-coding-challenge/blob/master/8th-May/solution.java) 
+    + Day #9 - 9th May 2020 - [Valid Perfect Square](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3324/) - [My Submission](https://github.com/iamkishlayverma/leetcode-may-coding-challenge/blob/master/9th-May/solution.java) 
 
 
 
@@ -28,4 +29,5 @@ Problem statements and solutions(in JAVA) of 31 days May Coding challenge by Lee
 | 6 | [Majority Element](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3321/) - [Code](https://github.com/iamkishlayverma/leetcode-may-coding-challenge/blob/master/6th-May/solution.java) | Moore's Voting Algorithm | Array | O(n) | O(1) |
 | 7 | [Cousins in Binary Tree](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3322/) - [Code](https://github.com/iamkishlayverma/leetcode-may-coding-challenge/blob/master/7th-May/solution.java) | Level Order Traversal | Binary Tree | O(n) | O(n) |
 | 8 | [Check If It Is a Straight Line](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/) - [Code](https://github.com/iamkishlayverma/leetcode-may-coding-challenge/blob/master/8th-May/solution.java) | Array Traversal | Array | O(n) | O(1) |
+| 9 | [Valid Perfect Square](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3324/) - [Code](https://github.com/iamkishlayverma/leetcode-may-coding-challenge/blob/master/9th-May/solution.java) | Number theory |  | O(n) | O(1) |
 
