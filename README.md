@@ -3,29 +3,6 @@
 Problem statements and solutions(in JAVA) of 31 days May Coding challenge by Leetcode
 
 ## Submissions
-+ Week 1
-    
-    + Day #1 - 1st May 2020 - [First Bad Version](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/) - [My Submission](https://github.com/iamkishlayverma/leetcode-may-coding-challenge/blob/master/1st-May/solution.java)
-    + Day #2 - 2nd May 2020 - [Jewels and Stones](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3317/) - [My Submission](https://github.com/iamkishlayverma/leetcode-may-coding-challenge/blob/master/2nd-May/solution.java)
-    + Day #3 - 3rd May 2020 - [Ransom Note](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3318/) - [My Submission](https://github.com/iamkishlayverma/leetcode-may-coding-challenge/blob/master/3rd-May/solution.java)
-    + Day #4 - 4th May 2020 - [Number Complement](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3319/) - [My Submission](https://github.com/iamkishlayverma/leetcode-may-coding-challenge/blob/master/4th-May/solution.java)
-    + Day #5 - 5th May 2020 - [First Unique Character in a String](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/) - [My Submission](https://github.com/iamkishlayverma/leetcode-may-coding-challenge/blob/master/5th-May/solution.java)
-    + Day #6 - 6th May 2020 - [Majority Element](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3321/) - [My Submission](https://github.com/iamkishlayverma/leetcode-may-coding-challenge/blob/master/6th-May/solution.java)
-    + Day #7 - 7th May 2020 - [Cousins in Binary Tree](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3322/) - [My Submission](https://github.com/iamkishlayverma/leetcode-may-coding-challenge/blob/master/7th-May/solution.java)
-
-+ Week 2
-    
-    + Day #8 - 8th May 2020 - [Check If It Is a Straight Line](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/) - [My Submission](https://github.com/iamkishlayverma/leetcode-may-coding-challenge/blob/master/8th-May/solution.java) 
-    + Day #9 - 9th May 2020 - [Valid Perfect Square](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3324/) - [My Submission](https://github.com/iamkishlayverma/leetcode-may-coding-challenge/blob/master/9th-May/solution.java)
-    + Day #10 - 10th May 2020 - [Find the Town Judge](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3325/) - [My Submission](https://github.com/iamkishlayverma/leetcode-may-coding-challenge/blob/master/10th-May/solution.java) 
-    + Day #11 - 11th May 2020 - [Flood Fill](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3326/) - [My Submission](https://github.com/iamkishlayverma/leetcode-may-coding-challenge/blob/master/11th-May/solution.java) 
-    + Day #12 - 12th May 2020 - [Single Element in a Sorted Array](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3327/) - [My Submission](https://github.com/iamkishlayverma/leetcode-may-coding-challenge/blob/master/12th-May/solution.java)
-    + Day #13 - 13th May 2020 - [Remove K Digits](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3328/) - [My Submission](https://github.com/iamkishlayverma/leetcode-may-coding-challenge/blob/master/13th-May/solution.java)
-
-
-
-
-## Summary
 
 | # | Problem | Algorithm | Data Structure | Time Complexity | Space Complexity |
 |:-:|:-:|:-:|:-:|:-:|:-:|
